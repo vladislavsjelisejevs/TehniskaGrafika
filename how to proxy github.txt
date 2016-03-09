@@ -1,0 +1,1 @@
+git config --global http.proxy http://st120121:ydejaBaL@proxy.du.lv:3128
